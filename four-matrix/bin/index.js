@@ -17,6 +17,7 @@ loadLib("libs/laya.tiledmap.js");
 loadLib("libs/laya.physics.js")
 loadLib("libs/laya.html.js")
 loadLib("libs/laya.device.js")
+loadLib("other_libs/wav.js")
 loadLib("other_libs/axios.min.js")
 loadLib("other_libs/recorder.mp3.min.js")
 loadLib("other_libs/recorder.wav.min.js")
