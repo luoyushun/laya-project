@@ -1,0 +1,6 @@
+{
+    "type":"Scene",
+    "props":{"width":640,"sceneColor":"#0099ff","height":1136, "runtime":"scenes/LoadScene.js"},
+    "child":[
+        ]
+}
